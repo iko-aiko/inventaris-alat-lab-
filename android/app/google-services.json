@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62436485115",
+    "project_id": "inventaris-alat-lab-bd47a",
+    "storage_bucket": "inventaris-alat-lab-bd47a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62436485115:android:ec90d120926903da0b4d5e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_inventaris_alat_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmvZ6Rs5mQRfzNH2xYSqvn0OkxyYG6Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
